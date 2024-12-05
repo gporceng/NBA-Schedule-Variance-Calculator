@@ -24,7 +24,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/yourusername/nba-schedule-variance-calculator.git
+git clone [https://github.com/yourusername/nba-schedule-variance-calculator.git](https://github.com/gporceng/NBA-Schedule-Variance-Calculator)
 cd nba-schedule-variance-calculator
 
 Install dependencies:
